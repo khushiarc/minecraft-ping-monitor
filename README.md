@@ -19,15 +19,17 @@ tk
 ## How to run
 python main.py
 
-## screenshot
+## Screenshot
 ![Screenshot 2025-05-29 153524](https://github.com/user-attachments/assets/ac70ce10-7f2b-410e-8326-ec4b8bb7f770)
 
-🔧 Future Ideas
+## Future Ideas
+
 Export graph as PNG
 
 Add more servers
 
 Sound alert on high ping
+
 
 🧑‍💻 Author
 Khushi Halijole — GitHub Profile --> khushiarc
