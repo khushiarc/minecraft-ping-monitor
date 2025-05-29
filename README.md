@@ -16,6 +16,8 @@ ping3
 matplotlib
 tk
 
+pip install -r requirements.txt
+
 ## How to run
 python main.py
 
