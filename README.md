@@ -33,7 +33,6 @@ Add more servers
 Sound alert on high ping
 
 
-🧑‍💻 Author
-Khushi Halijole — GitHub Profile --> khushiarc
+
 
 
